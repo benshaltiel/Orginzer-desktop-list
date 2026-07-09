@@ -12,3 +12,8 @@ categories/
   other/             # Catch-all or sub-categories
 scripts/             # Python scripts for scraping/updating/maintaining lists (e.g., fuzzy match tester)
 data_sources.md      # Attribution + update instructions
+
+## Credits
+
+Built by [WhiteNo1s3](https://github.com/WhiteNo1s3). Released under the MIT License.
+
